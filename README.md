@@ -6,6 +6,6 @@ website with info about me
 
 # links
 
-j
+
 
 https://github.com/Hayden-coder/React-Portfolio
